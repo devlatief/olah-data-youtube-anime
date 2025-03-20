@@ -1,0 +1,3 @@
+streamlit==1.43.2
+google-api-python-client==2.164.0
+pandas==2.2.3
